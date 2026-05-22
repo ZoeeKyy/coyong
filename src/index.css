@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Pacifico&family=Dancing+Script:wght@400;700&display=swap');
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+}
+
+/* LIVE WALLPAPER FLOATING */
+@keyframes floatingHeart {
+
+  0% {
+    transform: translateY(120vh) translateX(0px) rotate(0deg);
+    opacity: 0;
+  }
+
+  10% {
+    opacity: 0.8;
+  }
+
+  50% {
+    transform: translateY(40vh) translateX(30px) rotate(180deg);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translateY(-140vh) translateX(-30px) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+.floating-heart {
+  animation-name: floatingHeart;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  will-change: transform;
+}
