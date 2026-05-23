@@ -101,24 +101,25 @@ function Home() {
             className="text-center md:text-left"
           >
             <div className="inline-block bg-white px-4 py-2 rounded-full shadow-md rotate-[-3deg] mb-6 text-sm md:text-base">
-              🎓 Graduation Memory 2026
+              Our Little Memory Book 💌
             </div>
 
             <h1 className="text-5xl sm:text-6xl md:text-8xl leading-tight text-[#5a3d2b] font-['Pacifico']">
-              Scrapbook
+              Memories
               <br />
-              Memory
+              With You
             </h1>
 
             <p className="mt-6 text-base md:text-lg text-[#6b4d3a] leading-relaxed max-w-lg mx-auto md:mx-0">
-              Sebuah website kecil untuk seseorang yang spesial ❤️
+              Made with love, just for you ❤️ Every memory with you means
+              everything to me.
             </p>
 
             <button
               onClick={() => navigate("/memory")}
               className="mt-8 bg-[#d88c5a] hover:scale-105 transition-all duration-700 ease-out text-white px-7 py-4 rounded-2xl shadow-xl text-base md:text-lg font-semibold"
             >
-              Buka Kenangan 💌
+              Open
             </button>
           </motion.div>
 
