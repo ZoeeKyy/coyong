@@ -177,7 +177,7 @@ function Memory() {
 
     setIsPlaying(true);
 
-    const text = "Our Memories 📸";
+    const text = "Our Memories";
 
     let index = 0;
 
@@ -212,24 +212,24 @@ function Memory() {
 
   const memories = [
     {
-      title: "Our First Chat 💌",
+      title: "Our First Chat",
       image: "/foto3.jpg",
-      text: "Dari awal chat di WA kamu udah sok asik sama aku 😭 Tapi ternyata dari situ semuanya mulai. Dari yang awalnya cuma iseng balesin chat, sampai akhirnya jadi orang yang selalu aku cari setiap hari ❤️",
+      text: "Dari awal chat di WA kamu udah sok asik sama aku. Tapi ternyata dari situ semuanya mulai. Dari yang awalnya cuma iseng balesin chat, sampai akhirnya jadi orang yang selalu aku cari setiap hari ❤️",
     },
     {
-      title: "First Photo ❤️",
+      title: "First Photo",
       image: "/foto4.jpg",
-      text: "Ini foto pertama yang kamu kirim ke aku ❤️ Masih inget banget gimana excited-nya aku waktu itu. Dari foto ini, aku mulai sering nungguin notif dari kamu dan mulai penasaran sama kamu. Walau muka kamu nggak keliatan di foto ini, tapi entah kenapa aku udah yakin kalau kamu itu pasti cantik 😭",
+      text: "Ini foto pertama yang kamu kirim ke aku ❤️ Masih inget banget gimana excited-nya aku waktu itu. Dari foto ini, aku mulai sering nungguin notif dari kamu dan mulai penasaran sama kamu. Walau muka kamu nggak keliatan di foto ini, tapi entah kenapa aku udah yakin kalau kamu itu pasti cantik",
     },
     {
-      title: "Random Moments ✨",
+      title: "Random Moments",
       image: "/foto5.jpg",
       text: "Kadang hal-hal kecil bareng kamu justru jadi memory yang paling aku suka. Dari obrolan random, ketawa nggak jelas, sampai moment sederhana yang ternyata selalu kepikiran terus ❤️",
     },
     {
-      title: "Graduation Day 🎓",
+      title: "Graduation Day",
       image: "/foto2.jpg",
-      text: "Selamat atas kelulusanmu ❤️ Aku bangga banget sama semua usaha dan perjuangan yang udah kamu lewatin sampai sejauh ini. Semoga semua hal baik selalu datang ke hidup kamu ✨",
+      text: "Happy Graduation mylove! Goodluck to the next chapter of your life, i'm always be here for you and i'm always proud of you.  I LOVE YOU ❤️",
     },
   ];
 
@@ -379,7 +379,7 @@ function Memory() {
 
           <TypingText
             speed={8}
-            text={`Happy Graduation, Babyyyy 🎓💞
+            text={`Happy Graduation, Babyyyy 💞
 
 I’m so proud of you, proud of everything, and I’ll always be your biggest supporter.
 
@@ -393,13 +393,11 @@ Jadi please jaga diri baik-baik yaa. Stay healthy, stay strong. Aku cuma mau kam
 
 Kalau kamu butuh seseorang buat cerita, lean on me. Aku selalu ada buat kamu, 24/7. Always proud of you, always here for you ❤️
 
-Aku juga cuma mau kamu tau, kehadiran kamu bener-bener ngubah banyak hal buat aku. Cara aku mikir, cara aku ngejalanin hari, semuanya jadi lebih hangat sejak ada kamu. Kamu bikin dunia yang tadinya berat jadi lebih ringan buat dijalanin.
-
 Aku nggak minta apa-apa yang ribet kok, cukup kamu tetap jadi kamu yang sekarang aja, itu udah bikin aku tenang. Selama kamu masih ada di sini, aku ngerasa hidup aku punya tempat buat pulang ❤️
 
 I love you more than words can explain, more than you’ll ever know 💞
 
-Selamat atas kelulusan kamu, sayanggg. Semangat terus buat ngejar semua cita-cita kamu, dan jangan lupa buat selalu bahagia yaaa ✨`}
+Selamat atas kelulusan kamu, sayanggg. Semangat terus buat ngejar semua cita-cita kamu, dan jangan lupa buat selalu bahagia yaaa.  Semoga kamu suka ya bunganyaa, walaupun beberapa hari lagi bunga nya akan layu, semoga mereka mekar selamanya di hati kamu.`}
           />
         </div>
       </motion.div>
