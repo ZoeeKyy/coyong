@@ -212,22 +212,22 @@ function Memory() {
   const memories = [
     {
       title: "Our First Chat 💌",
-      image: "/foto1.jpg",
+      image: "/foto3.jpg",
       text: "Dari awal chat di WA kamu udah sok asik sama aku 😭 Tapi ternyata dari situ semuanya mulai. Dari yang awalnya cuma iseng balesin chat, sampai akhirnya jadi orang yang selalu aku cari setiap hari ❤️",
     },
     {
       title: "First Photo ❤️",
-      image: "/foto2.jpg",
+      image: "/foto4.jpg",
       text: "Ini foto pertama yang kamu kirim ke aku ❤️ Masih inget banget gimana excited-nya aku waktu itu. Dari foto ini, aku mulai sering nungguin notif dari kamu dan mulai penasaran sama kamu. Walau muka kamu nggak keliatan di foto ini, tapi entah kenapa aku udah yakin kalau kamu itu pasti cantik 😭",
     },
     {
       title: "Random Moments ✨",
-      image: "/foto3.jpg",
+      image: "/foto5.jpg",
       text: "Kadang hal-hal kecil bareng kamu justru jadi memory yang paling aku suka. Dari obrolan random, ketawa nggak jelas, sampai moment sederhana yang ternyata selalu kepikiran terus ❤️",
     },
     {
       title: "Graduation Day 🎓",
-      image: "/foto4.jpg",
+      image: "/foto2.jpg",
       text: "Selamat atas kelulusanmu ❤️ Aku bangga banget sama semua usaha dan perjuangan yang udah kamu lewatin sampai sejauh ini. Semoga semua hal baik selalu datang ke hidup kamu ✨",
     },
   ];
