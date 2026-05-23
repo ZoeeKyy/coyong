@@ -266,7 +266,7 @@ function Memory() {
           onClick={toggleMusic}
           className="bg-white/90 backdrop-blur-sm px-5 py-3 rounded-2xl shadow-xl text-[#5a3d2b] font-semibold hover:scale-105 transition-all duration-700 ease-out text-sm md:text-base"
         >
-          {isPlaying ? "Pause ⏸️" : "Play 🎵"}
+          {isPlaying ? "⏸️" : "🎵"}
         </button>
       </div>
 
